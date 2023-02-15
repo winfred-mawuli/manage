@@ -1,6 +1,6 @@
 # Tailwind Manage Landing Page
 
-This is the project for learning TailwindCSS.
+This is the my project for learning TailwindCSS.
 
 ![Alt text](/img/screen.png?raw=true)
 
